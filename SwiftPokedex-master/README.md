@@ -1,3 +1,4 @@
+Hasil Liat Tutor Youtube dan Google
 ![icon](https://user-images.githubusercontent.com/15960525/117062071-47808e00-ad23-11eb-83df-95d8efadac58.png)
 
 # SwiftPokedex 
